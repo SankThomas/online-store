@@ -1,0 +1,2 @@
+1. Remember to add rating to items
+2. Add functionality to filter by tags
